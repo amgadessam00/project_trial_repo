@@ -1,2 +1,3 @@
-# project_trial_repo
-## Project Notes
+# Amgad Essam
+## Mechatronics Engineer 
+### skills: Python | MATLAB | C | ROS | VS Code
